@@ -6,7 +6,7 @@
 
 **Accelerating Global Business Growth**
 
-[abcd-inc.co.jp](https://abcd-inc.co.jp)
+[abcd-inc.co.jp](https://www.abcd-inc.co.jp)
 
 </div>
 
@@ -59,7 +59,7 @@ Whether you're entering a new market, building distribution channels, or scaling
 ## Get In Touch
 
 **Business Inquiries**  
-Visit [abcd-inc.co.jp](https://abcd-inc.co.jp) or contact us through our website
+Visit [abcd-inc.co.jp](https://www.abcd-inc.co.jp) or contact us through our website
 
 ---
 
