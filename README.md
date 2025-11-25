@@ -2,13 +2,6 @@
 
 <img src="abcd-v1-nov25-2025.png" alt="ABCD Logo" width="120" height="120" style="border-radius: 50%; animation: pulse 2s ease-in-out infinite;" />
 
-<style>
-@keyframes pulse {
-  0%, 100% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.05); opacity: 0.9; }
-}
-</style>
-
 # ABCD Inc.
 
 **Accelerating Global Business Growth**
