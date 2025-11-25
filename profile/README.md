@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="abcd-v1-nov25-2025.png" alt="ABCD Logo" width="120" height="120" style="border-radius: 50%; animation: pulse 2s ease-in-out infinite;" />
+<img src="../abcd-v1-nov25-2025.png" alt="ABCD Logo" width="120" height="120" style="border-radius: 50%; animation: pulse 2s ease-in-out infinite;" />
 
 # ABCD Inc.
 
